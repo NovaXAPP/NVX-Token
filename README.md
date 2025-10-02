@@ -20,7 +20,7 @@ staking, and AI-driven tools.
 
 ## Links
 - 🌐 Website: [https://novax.site/en/](https://novax.site/en/)  
-- 📄 Whitepaper: [https://novax.site/whitepaper.pdf](https://novax.site/whitepaper.pdf)  
+- 📄 Whitepaper: [https://novax.site/whitepaper.pdf](https://ipfs.io/ipfs/bafybeia2o6phzrwupkvncvzn4n3jh2c7rro73pwlxrpfib64vcsp4by2zi)  
 - 🔗 Explorer: [https://solscan.io/token/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC](https://solscan.io/token/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC)  
 - 💱 Trading: [https://raydium.io/swap/?inputMint=sol&outputMint=NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC](https://raydium.io/swap/?inputMint=sol&outputMint=NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC)  
 
