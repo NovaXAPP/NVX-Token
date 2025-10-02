@@ -1,0 +1,33 @@
+{
+  "name": "NovaX",
+  "symbol": "NVX",
+  "mintAddress": "NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC",
+  "decimals": 9,
+  "chain": "solana",
+  "standard": "SPL",
+  "totalSupply": 210000000,
+  "logoURI": "https://ipfs.io/ipfs/bafkreibui2iztrpha4ffeiht3wsjfruudgqicnrxfimwvtpezp4sugdj3i",
+  "website": "https://novax.site/",
+  "whitepaper": "https://novax.site/whitepaper.pdf",
+  "explorers": [
+    "https://solscan.io/token/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC",
+    "https://explorer.solana.com/address/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC",
+    "https://solana.fm/address/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC"
+  ],
+  "markets": [
+    {
+      "type": "AMM",
+      "name": "Raydium",
+      "pair": "NVX/SOL",
+      "url": "https://raydium.io/swap/?inputMint=sol&outputMint=NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC"
+    }
+  ],
+  "tags": ["defi", "utility", "exchange-based", "solana", "spl-token"],
+  "socials": {
+    "website": "https://novax.site/",
+    "twitter": "https://twitter.com/NovaX_APP",
+    "telegram": "https://t.me/novax_official"
+  },
+  "description": "NovaX (NVX) is a Solana-based SPL token designed for DeFi utilities including trading, staking (planned), and liquidity provision. The project focuses on transparent tokenomics and progressive ecosystem development.",
+  "lastUpdated": "2025-09-13T23:04:48Z"
+}
