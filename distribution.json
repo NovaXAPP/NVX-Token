@@ -1,0 +1,59 @@
+{
+  "mintAddress": "NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC",
+  "totalSupply": 210000000,
+  "decimals": 9,
+  "circulatingSupplyEstimate": 2000000,
+  "allocations": [
+    {
+      "name": "Public Sale & Liquidity (Airdrop + DEX)",
+      "percentage": 5,
+      "tgeReleasePct": 100,
+      "cliffMonths": 0,
+      "vestingMonths": 0,
+      "releaseSchedule": "100% at TGE for initial market liquidity and community distribution",
+      "notes": "Initial liquidity on Raydium and early airdrops",
+      "links": [
+        "https://raydium.io/swap/?inputMint=sol&outputMint=NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC"
+      ]
+    },
+    {
+      "name": "Treasury & Development Fund",
+      "percentage": 89,
+      "tgeReleasePct": 0,
+      "cliffMonths": 12,
+      "vestingMonths": 36,
+      "releaseSchedule": "Linear monthly vesting after a 12-month cliff",
+      "notes": "Long-term ecosystem growth, partnerships, grants and operations"
+    },
+    {
+      "name": "Team & Advisors",
+      "percentage": 6,
+      "tgeReleasePct": 0,
+      "cliffMonths": 6,
+      "vestingMonths": 24,
+      "releaseSchedule": "Quarterly vesting over 24 months after 6-month cliff",
+      "notes": "Aligns incentives with long-term roadmap"
+    }
+  ],
+  "lockedWallets": [
+    {
+      "description": "Treasury wallet (locked supply)",
+      "chain": "solana",
+      "address": "PASTE_TREASURY_WALLET_ADDRESS_HERE",
+      "balance": 187058449.409841,
+      "ownedBy": "NovaX Team",
+      "notes": "Primary locked wallet for treasury and development"
+    }
+  ],
+  "verification": {
+    "explorers": [
+      "https://solscan.io/token/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC#holders",
+      "https://solana.fm/address/NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC"
+    ],
+    "markets": [
+      "https://raydium.io/swap/?inputMint=sol&outputMint=NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC"
+    ]
+  },
+  "notes": "Circulating supply reflects tokens in public markets/liquidity and community wallets; locked/vested funds are excluded from circulating.",
+  "lastUpdated": "2025-09-13T23:04:48Z"
+}
