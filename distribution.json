@@ -39,7 +39,7 @@
     {
       "description": "Treasury wallet (locked supply)",
       "chain": "solana",
-      "address": "PASTE_TREASURY_WALLET_ADDRESS_HERE",
+      "address": "81yhinvCTQMmoSJbq9MEEqZvGhi7BtkwKV2BokpKVRmm",
       "balance": 187058449.409841,
       "ownedBy": "NovaX Team",
       "notes": "Primary locked wallet for treasury and development"
