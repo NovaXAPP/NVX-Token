@@ -6,7 +6,7 @@ Official repository for NVX Token (NovaX), built on Solana.  Includes token meta
 **Mint Address:** NVX3iadwHbH5kS1DmdezYrgTMpM6h3Q1w5Rd92w8VzC  
 **Blockchain:** Solana  
 **Decimals:** 9  
-**Total Supply:** 500,000,000 NVX  
+**Total Supply:** 210,000,000 NVX  
 **Token Type:** Exchange-based Utility Token  
 
 ---
